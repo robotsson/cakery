@@ -51,7 +51,7 @@ html, body {
 .welcome-left {
     display: flex;
     flex-direction: column;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     background-repeat: no-repeat;
     background-image: url("images/welcome.jpg");
     background-size: cover;

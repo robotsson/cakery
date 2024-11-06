@@ -7,9 +7,9 @@ h5 { font-family: "Roboto", sans-serif; font-weight: 200; }
 .semi_bold { font-family: "Roboto", sans-serif; font-weight: 400; }
 .na { font-family: "Roboto", sans-serif; font-weight: 400; }
 
-a:link { color: white; text-decoration: none }
+a:link { color: white; text-decoration: none; transition-duration: 0.2s; }
 a:visited { color: white; }
-a:hover { color: lightgrey }
+a:hover { color: hotpink; }
 a:active { color: gray; }
 
 a.two:link { color: black; text-decoration: none }
